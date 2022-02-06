@@ -1,7 +1,8 @@
 # SpringyMeshes
 
 ## Description
-Implementation of soft body simulation in Unity engine using spring-damper system.
+Implementation of soft body simulation in Unity engine using spring-damper system. [[Foundations of Physically Based Modeling & Animation, Chapter 8](https://www.cs.clemson.edu/savage/pba/)].
+
 
 ## Authors
 | Name          | Email           | GitHub | LinkedIn |
