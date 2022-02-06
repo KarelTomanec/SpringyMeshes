@@ -16,6 +16,6 @@ Implementation of soft body simulation in Unity engine using spring-damper syste
 [Report (Czech)](Report/report.pdf)
 
 ## Examples
-![Ball](/Images/im1.PNG)
 
-![Bunny](/Images/im2.PNG)
+<img src="/Images/im1.png" with="500" height="200">
+<img src="/Images/im2.png" with="500" height="200">
