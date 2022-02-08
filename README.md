@@ -11,7 +11,7 @@ Implementation of soft body simulation in Unity engine using spring-damper syste
 | Vojtěch Pospíšil      | <pospisil98@gmail.com> | https://github.com/pospisil98 |
 
 ## Video
-[Soft Body Simulation](https://youtu.be/bviy2VOBAxE).
+[Soft Body Simulation](https://youtu.be/bviy2VOBAxE)
 
 ## Technical report
 [Report (Czech)](Report/report.pdf)
